@@ -1,0 +1,90 @@
+[
+  {
+    "disk": 0,
+    "side": "A",
+    "offs": 58,
+    "num": 0,
+    "code": 0,
+    "name": "KYODAKU-",
+    "fileAddr": 10240,
+    "fileSize": 224,
+    "fileKind": "VRAM"
+  },
+  {
+    "disk": 0,
+    "side": "A",
+    "offs": 299,
+    "num": 1,
+    "code": 1,
+    "name": "SM2CHAR1",
+    "fileAddr": 0,
+    "fileSize": 8192,
+    "fileKind": "CRAM"
+  },
+  {
+    "disk": 0,
+    "side": "A",
+    "offs": 8508,
+    "num": 2,
+    "code": 16,
+    "name": "SM2CHAR2",
+    "fileAddr": 1888,
+    "fileSize": 64,
+    "fileKind": "CRAM"
+  },
+  {
+    "disk": 0,
+    "side": "A",
+    "offs": 8589,
+    "num": 3,
+    "code": 5,
+    "name": "SM2MAIN ",
+    "fileAddr": 24576,
+    "fileSize": 32768,
+    "fileKind": "PRAM"
+  },
+  {
+    "disk": 0,
+    "side": "A",
+    "offs": 41374,
+    "num": 4,
+    "code": 32,
+    "name": "SM2DATA2",
+    "fileAddr": 50288,
+    "fileSize": 3631,
+    "fileKind": "PRAM"
+  },
+  {
+    "disk": 0,
+    "side": "A",
+    "offs": 45022,
+    "num": 5,
+    "code": 48,
+    "name": "SM2DATA3",
+    "fileAddr": 50640,
+    "fileSize": 3279,
+    "fileKind": "PRAM"
+  },
+  {
+    "disk": 0,
+    "side": "A",
+    "offs": 48318,
+    "num": 6,
+    "code": 64,
+    "name": "SM2DATA4",
+    "fileAddr": 49844,
+    "fileSize": 3916,
+    "fileKind": "PRAM"
+  },
+  {
+    "disk": 0,
+    "side": "A",
+    "offs": 52251,
+    "num": 7,
+    "code": 15,
+    "name": "SM2SAVE ",
+    "fileAddr": 53919,
+    "fileSize": 1,
+    "fileKind": "PRAM"
+  }
+]

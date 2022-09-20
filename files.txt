@@ -1,0 +1,80 @@
+Disk 0
+Side A
+File offs: $003a
+File num: 0
+File code: 0
+Name: KYODAKU-
+File addr: $2800
+File size: $00e0
+File kind: VRAM
+
+Disk 0
+Side A
+File offs: $012b
+File num: 1
+File code: 1
+Name: SM2CHAR1
+File addr: $0000
+File size: $2000
+File kind: CRAM
+
+Disk 0
+Side A
+File offs: $213c
+File num: 2
+File code: 16
+Name: SM2CHAR2
+File addr: $0760
+File size: $0040
+File kind: CRAM
+
+Disk 0
+Side A
+File offs: $218d
+File num: 3
+File code: 5
+Name: SM2MAIN 
+File addr: $6000
+File size: $8000
+File kind: PRAM
+
+Disk 0
+Side A
+File offs: $a19e
+File num: 4
+File code: 32
+Name: SM2DATA2
+File addr: $c470
+File size: $0e2f
+File kind: PRAM
+
+Disk 0
+Side A
+File offs: $afde
+File num: 5
+File code: 48
+Name: SM2DATA3
+File addr: $c5d0
+File size: $0ccf
+File kind: PRAM
+
+Disk 0
+Side A
+File offs: $bcbe
+File num: 6
+File code: 64
+Name: SM2DATA4
+File addr: $c2b4
+File size: $0f4c
+File kind: PRAM
+
+Disk 0
+Side A
+File offs: $cc1b
+File num: 7
+File code: 15
+Name: SM2SAVE 
+File addr: $d29f
+File size: $0001
+File kind: PRAM
+

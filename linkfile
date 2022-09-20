@@ -1,0 +1,7 @@
+[objects]
+build/wram.o
+build/SM2MAIN.o
+build/SM2DATA2.o
+build/SM2DATA3.o
+build/SM2DATA4.o
+build/SM2SAVE.o
